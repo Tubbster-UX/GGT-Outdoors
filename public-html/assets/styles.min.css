@@ -81,7 +81,7 @@
     border:2px solid #fff
 }
 .card .card-title:hover,.team-card a.overlay_icon:hover i.fa{
-    color:#4ac8ed
+    color:#CC5500;
 }
 .card{
     border:0;
